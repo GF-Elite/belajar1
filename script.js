@@ -1,1 +1,1 @@
-console.log("script.js")
+console.log('./level3/index.js')
